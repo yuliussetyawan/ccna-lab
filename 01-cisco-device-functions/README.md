@@ -6,7 +6,7 @@ This project is a guided walkthrough of fundamental Cisco device operations. It 
 ## Network Topology
 The lab topology consists of a central switched core connecting four routers.
 
-![Lab Topology](./1-cisco-device-functions.jpg)
+![Lab Topology](./topology.jpg)
 
 ### Hardware Architecture
 * **Routers:** 4x Cisco Routers (R1, R2, R3, R4).
