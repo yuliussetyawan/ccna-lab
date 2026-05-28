@@ -1,0 +1,15 @@
+enable
+!
+configure terminal
+!
+hostname SW1
+!
+spanning-tree portfast default
+!
+interface Vlan1
+ip address 10.10.10.2 255.255.255.0
+!
+line con 0
+ exec-timeout 30 0
+!
+end

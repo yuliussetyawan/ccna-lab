@@ -1,0 +1,1 @@
+Configure the TFTP server with IP address 10.10.10.10/24 on the interface which is plugged into SW1.
