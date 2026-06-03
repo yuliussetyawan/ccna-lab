@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About This Repository
 
-Welcome to my CCNA 200-301 learning repository. I'm Yulius Setyawan, and this space serves as a comprehensive log of my practical lab configurations, troubleshooting notes, and network designs as I prepare for the Cisco CCNA certification.
+Welcome to my CCNA 200-301 learning repository. This space serves as a comprehensive log of my practical lab configurations, troubleshooting notes, and network designs as I prepare for the Cisco CCNA certification.
 
 The structured labs and theoretical foundations documented here are guided by the [Cisco CCNA 200-301 – The Complete Guide to Getting Certified](https://www.udemy.com/course/ccna-complete) course on Udemy.
 
@@ -26,6 +26,8 @@ This repository is organized into distinct, hands-on projects. Each focuses on a
   - Administrative maintenance including factory resets, password recovery via ROMMON, TFTP backups, and IOS upgrades.
 - **[Project 5: Routing Fundamentals](./05-routing-fundamentals/README.md)**
   - Configuring connected, local, static, summary, and default routes, alongside exploring Longest Prefix Match and ECMP load balancing.
+- **[Project 6: Dynamic Routing](./06-dynamic-routing/README.md)**
+  - Configuring and comparing RIP, OSPF, and EIGRP, while exploring administrative distance, floating static routes, equal-cost load balancing, and passive interfaces.
 
 ## 🚀 Learning Goals
 
