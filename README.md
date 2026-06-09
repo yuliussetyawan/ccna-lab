@@ -13,7 +13,6 @@ To ensure hands-on familiarity with Cisco IOS and network behaviors, the practic
 - **Cisco Packet Tracer**
 
 ## 📂 Project Structure
-
 This repository is organized into distinct, hands-on projects. Each focuses on a specific domain of the CCNA curriculum:
 
 - **[Project 1: Cisco Device Functions - MAC & Routing Tables](./01-cisco-device-functions/README.md)**
@@ -28,6 +27,12 @@ This repository is organized into distinct, hands-on projects. Each focuses on a
   - Configuring connected, local, static, summary, and default routes, alongside exploring Longest Prefix Match and ECMP load balancing.
 - **[Project 6: Dynamic Routing](./06-dynamic-routing/README.md)**
   - Configuring and comparing RIP, OSPF, and EIGRP, while exploring administrative distance, floating static routes, equal-cost load balancing, and passive interfaces.
+- **[Project 7: Connectivity Troubleshooting](./07-connectivity-troubleshooting/README.md)**
+  - Utilizing `ping` and `traceroute` to diagnose routing failures, isolate faults in a multi-router topology, and resolve missing OSPF network advertisements.
+- **[Project 8: IGP Routing Configuration](./08-igp-routing/README.md)**
+  - Configuring basic Interior Gateway Protocols (RIPv2 and EIGRP), observing protocol transitions due to Administrative Distance, injecting default routes, and securing edge segments using passive interfaces.
+- **[Project 9: OSPF Routing Configuration](./09-ospf-routing/README.md)**
+  - Implementing Single-Area and Multi-Area OSPF, tuning routing paths via cost/reference bandwidth manipulation, summarizing routes on ABRs, and engineering DR/BDR elections on broadcast segments.
 
 ## 🚀 Learning Goals
 
